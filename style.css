@@ -1,0 +1,12 @@
+@charset "UTF-8";
+body div img {
+	text-align: center;
+}
+body {
+	text-align: center;
+	margin-top: 55px;
+}
+body pic {
+	text-align: center;
+	margin-top: 100px;
+}
